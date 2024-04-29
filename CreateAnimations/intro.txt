@@ -1,0 +1,17 @@
+green sock animation platorm
+
+    gsap --->  js libaries 
+    locomotivejs -- > use for smooth scrolling
+    ScrollTrigger --> pugining of GSAP
+
+    --GSAP 
+    --What is Animation
+    --GSAP Introduction
+    --GSAP animation basics
+    --gsap.to() , gsap.from()
+    --Some other features
+    --GSAP Timeline and how to control it   gsap.timeline();
+    --GSAP ScrollTrigger
+    --Pinning in ScrollTrigger
+    --Some other pluggins
+    --Project with GSAP
