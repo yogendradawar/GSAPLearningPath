@@ -1,0 +1,3 @@
+SVG --> scalar vector graphics
+
+svg is like a container
